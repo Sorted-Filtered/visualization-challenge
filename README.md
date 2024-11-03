@@ -1,6 +1,8 @@
 # visualization-challenge
 Module 5
+
 Project Description
+
 Two databases were merged for analysis (mouse metadata and study results). Duplicate data was removed and the data was summarized by the drug regiment administered. From this drug regiment summary, four drugs were selected for further analysis. This further analysis includes quartiles, outliers, and box plots based on average tumor size. Mouse sex was also analyzed. One mouse (L509) was selected for line plot creation. Also, weight vs average tumor size was plotted and a linear regression model calculated based on mice under the Capomulin regiment.
 
 Execution
